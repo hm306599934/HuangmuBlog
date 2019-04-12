@@ -1,0 +1,3 @@
+deploy:
+type: github
+repository: https://github.com/hm306599934/HuangmuBlog.git
